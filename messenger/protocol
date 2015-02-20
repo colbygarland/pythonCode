@@ -1,0 +1,16 @@
+PROTOCOL
+--
+--
+Author: Colby Garland
+ID#   : 5034957
+--
+--
+My protocol is as follows:
+	-client sends messages as plain text
+	-client sends commands as plain text
+	-server parses client's messages appropriately
+	-messages file holds all the messages sent
+            1. format is name:message 
+	-database file holds all the users in the database
+--
+--
